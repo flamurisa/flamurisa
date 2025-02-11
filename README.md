@@ -1,4 +1,4 @@
-### Passionate computer science student and full-stack developer skilled in building web and mobile applications, with a love for problem-solving, table tennis, drawing, competitive gaming
+### meow
 
 <!--
 **flamurisa/flamurisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
